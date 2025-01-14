@@ -1,2 +1,2 @@
 # Deep-Generative-Decoder-Project
-Notebooks for my Project in Bioinformatics
+Notebooks and source code for my Project in Bioinformatics
